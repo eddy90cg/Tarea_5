@@ -121,6 +121,114 @@ La Tarea 5 se trata sobre la resolucion del capitulo 9 y 5 del lbro analisis de 
   
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/27.png)
   
+  29. Vea el circuito de la figura 9-85:
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-85.png)
+
+a. Encuentre el circuito equivalente de Norton externo a <img src="https://latex.codecogs.com/svg.latex?R_L" title="R_L" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Primero\&space;encontramos\&space;la\&space;resistencia\&space;de\&space;Norton}\\&space;RN=16\Omega&plus;0\Omega=16\Omega&space;\end{matrix}" title="\begin{matrix} \textrm{Primero\ encontramos\ la\ resistencia\ de\ Norton}\\ RN=16\Omega+0\Omega=16\Omega \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Luego&space;encontramos&space;la&space;resistencia&space;equivalente&space;y&space;la&space;corriente}\\&space;\\&space;\frac{1}{Req}=\frac{16\Omega&plus;24\Omega}{(16\Omega)(24\Omega)}=9.6\Omega\\&space;\\&space;I=\frac{V}{R}=\frac{2.4V}{9.6\Omega}=0.25A&space;\end{matrix}" title="\begin{matrix} \textrm{Luego encontramos la resistencia equivalente y la corriente}\\ \\ \frac{1}{Req}=\frac{16\Omega+24\Omega}{(16\Omega)(24\Omega)}=9.6\Omega\\ \\ I=\frac{V}{R}=\frac{2.4V}{9.6\Omega}=0.25A \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Encontramos&space;$I_2$&space;con&space;el&space;divisor&space;de&space;corriente&space;y&space;ser\'a&space;igual&space;a&space;$&space;I_{ab(1))}&space;$}\\&space;\\&space;I_2=\frac{24\Omega}{24\Omega&plus;26\Omega}(0.25A)=0.15A\\&space;\end{matrix}" title="\begin{matrix} \textrm{Encontramos $I_2$ con el divisor de corriente y ser\'a igual a $ I_{ab(1))} $}\\ \\ I_2=\frac{24\Omega}{24\Omega+26\Omega}(0.25A)=0.15A\\ \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Finalmente&space;encontramos&space;$I_{ab(2)}$}\\&space;\\&space;I_{ab(2)}=\frac{16\Omega}{16\Omega&plus;0\Omega}(0.2A)=0.2A\\&space;\end{matrix}" title="\begin{matrix} \textrm{Finalmente encontramos $I_{ab(2)}$}\\ \\ I_{ab(2)}=\frac{16\Omega}{16\Omega+0\Omega}(0.2A)=0.2A\\ \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Por&space;el&space;teorema&space;de&space;superposici\'on&space;encontramos&space;$I_N$}\\&space;\\&space;I_N=I_{ab(1)}&plus;I_{ab(2)}=0.15A&plus;0.2A=0.35A\\&space;\end{matrix}" title="\begin{matrix} \textrm{Por el teorema de superposici\'on encontramos $I_N$}\\ \\ I_N=I_{ab(1)}+I_{ab(2)}=0.15A+0.2A=0.35A\\ \end{matrix}" />
+
+b. Use el circuito equivalente para determinar <img src="https://latex.codecogs.com/svg.latex?I_L" title="I_L" /> cuando <img src="https://latex.codecogs.com/svg.latex?R_L&space;=&space;20\&space;k&space;\Omega" title="R_L = 20\ k \Omega" /> y cuando <img src="https://latex.codecogs.com/svg.latex?R_L&space;=&space;50\&space;k&space;\Omega" title="R_L = 50\ k \Omega" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Para&space;$R_L=20k\Omega$}\\&space;\\&space;I_L=\frac{16\Omega}{16\Omega&plus;20\Omega}(0.35A)=0.156A\\&space;\end{matrix}" title="\begin{matrix} \textrm{Para $R_L=20k\Omega$}\\ \\ I_L=\frac{16\Omega}{16\Omega+20\Omega}(0.35A)=0.156A\\ \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\textrm{Para&space;$R_L=50k\Omega$}\\&space;\\&space;I_L=\frac{16\Omega}{16\Omega&plus;50\Omega}(0.35A)=0.085A\\&space;\end{matrix}" title="\begin{matrix} \textrm{Para $R_L=50k\Omega$}\\ \\ I_L=\frac{16\Omega}{16\Omega+50\Omega}(0.35A)=0.085A\\ \end{matrix}" />
+
+31. Literales
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-87.png)
+
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-87
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\frac{1}{Req}=\frac{60\Omega&plus;20\Omega}{(60\Omega)(20\Omega)}=15\Omega\\&space;\\&space;15\Omega&plus;35\Omega=50\Omega=RN&space;\end{matrix}" title="\begin{matrix} \frac{1}{Req}=\frac{60\Omega+20\Omega}{(60\Omega)(20\Omega)}=15\Omega\\ \\ 15\Omega+35\Omega=50\Omega=RN \end{matrix}" />
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\frac{1}{Req}=\frac{60\Omega&plus;35\Omega}{(60\Omega)(35\Omega)}=22.11\Omega\\&space;\\&space;22.11\Omega&plus;20\Omega=42.11\Omega\\&space;\\&space;I=\frac{100V}{42.11\Omega}=2.375A\\&space;\\&space;I_N=\frac{60\Omega}{60\Omega&plus;35\Omega}(2.375A)=1.5A\\&space;\end{matrix}" title="\begin{matrix} \frac{1}{Req}=\frac{60\Omega+35\Omega}{(60\Omega)(35\Omega)}=22.11\Omega\\ \\ 22.11\Omega+20\Omega=42.11\Omega\\ \\ I=\frac{100V}{42.11\Omega}=2.375A\\ \\ I_N=\frac{60\Omega}{60\Omega+35\Omega}(2.375A)=1.5A\\ \end{matrix}" />
+
+b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivalente de Norton
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;\frac{1}{Req}=\frac{60\Omega&plus;20\Omega}{(60\Omega)(20\Omega)}=15\Omega\\&space;\\&space;R_{TH}=15\Omega&plus;35\Omega=50\Omega\\&space;\\&space;E_{TH}=\frac{60\Omega}{60\Omega&plus;20\Omega}(100V)=75V\\&space;\\&space;I_L=\frac{75V}{50\Omega}=1.5A&space;\\&space;\\&space;R_{TH}=RN\&space;\wedge\&space;I_N=I_L&space;\end{matrix}" title="\begin{matrix} \frac{1}{Req}=\frac{60\Omega+20\Omega}{(60\Omega)(20\Omega)}=15\Omega\\ \\ R_{TH}=15\Omega+35\Omega=50\Omega\\ \\ E_{TH}=\frac{60\Omega}{60\Omega+20\Omega}(100V)=75V\\ \\ I_L=\frac{75V}{50\Omega}=1.5A \\ \\ R_{TH}=RN\ \wedge\ I_N=I_L \end{matrix}" />
+
+33. Literales
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-91.png)
+
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-91
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;RN=15k\Omega&plus;25k\Omega&plus;20k\Omega=60k\Omega\\&space;\\&space;I_{ab(1)}=\frac{25k\Omega}{60k\Omega}(-3mA)=-1.25mA\\&space;\\&space;I_{ab(2)}=\frac{20k\Omega}{60k\Omega}(5mA)=1.67mA\\&space;\\&space;I_N=I_{ab(1)}&plus;I_{ab(2)}=-1.25mA&plus;1.67mA=0.42mA\\&space;\end{matrix}" title="\begin{matrix} RN=15k\Omega+25k\Omega+20k\Omega=60k\Omega\\ \\ I_{ab(1)}=\frac{25k\Omega}{60k\Omega}(-3mA)=-1.25mA\\ \\ I_{ab(2)}=\frac{20k\Omega}{60k\Omega}(5mA)=1.67mA\\ \\ I_N=I_{ab(1)}+I_{ab(2)}=-1.25mA+1.67mA=0.42mA\\ \end{matrix}" />
+
+b. Convierta el circuito equivalente de Thévenin en su equivalente de Norton
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;R_{TH}=RN=60k\Omega\\&space;V_{ab(1)}=(-3mA)(25k\Omega)=-75V\\&space;V_{ab(2)}=(5mA)(20k\Omega)=100V\\&space;E_{TH}=V_{ab(1)}&plus;V_{ab(2)}=-75V&plus;100V=25V\\&space;\\&space;I_L=\frac{25V}{60k\Omega}=0.42mA&space;\\&space;\\&space;R_{TH}=RN\&space;\wedge\&space;I_N=I_L&space;\end{matrix}" title="\begin{matrix} R_{TH}=RN=60k\Omega\\ V_{ab(1)}=(-3mA)(25k\Omega)=-75V\\ V_{ab(2)}=(5mA)(20k\Omega)=100V\\ E_{TH}=V_{ab(1)}+V_{ab(2)}=-75V+100V=25V\\ \\ I_L=\frac{25V}{60k\Omega}=0.42mA \\ \\ R_{TH}=RN\ \wedge\ I_N=I_L \end{matrix}" />
+
+35. Literales 
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-95.png)
+
+a. Encuentre el circuito equivalente de Norton externo a las terminales que se indican en la figura 9-95
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;\frac{1}{Req}=\frac{16\Omega&plus;16\Omega}{(16\Omega)(16\Omega)}=8\Omega\\&space;\\&space;Req=8\Omega&plus;4\Omega=12\Omega\\&space;\\&space;\frac{1}{RN}=\frac{12\Omega&plus;18\Omega}{(12\Omega)(18\Omega)}=7.2\Omega\\&space;\\&space;I_{ab(1)}=\frac{16\Omega}{20\Omega}(0.416A)=0.33A\\&space;\\&space;I_{ab(2)}=\frac{7.2\Omega}{7.2\Omega}(0.3A)=0.3mA\\&space;\\&space;I_N=I_{ab(1)}&plus;I_{ab(2)}=0.33A&plus;0.3mA=0.63A\\&space;\end{matrix}" title="\begin{matrix} \frac{1}{Req}=\frac{16\Omega+16\Omega}{(16\Omega)(16\Omega)}=8\Omega\\ \\ Req=8\Omega+4\Omega=12\Omega\\ \\ \frac{1}{RN}=\frac{12\Omega+18\Omega}{(12\Omega)(18\Omega)}=7.2\Omega\\ \\ I_{ab(1)}=\frac{16\Omega}{20\Omega}(0.416A)=0.33A\\ \\ I_{ab(2)}=\frac{7.2\Omega}{7.2\Omega}(0.3A)=0.3mA\\ \\ I_N=I_{ab(1)}+I_{ab(2)}=0.33A+0.3mA=0.63A\\ \end{matrix}" />
+
+b. Convierta el circuito equivalente de Thévenin en su equivalente de Norton
+
+<img src="https://latex.codecogs.com/gif.latex?\begin{matrix}&space;R_{TH}=RN=7.2\Omega\\&space;E_{TH}=4.56V\\&space;\\&space;I_L=\frac{4.56V}{7.2\Omega}=0.63A&space;\\&space;\\&space;R_{TH}=RN\&space;\wedge\&space;I_N=I_L&space;\end{matrix}" title="\begin{matrix} R_{TH}=RN=7.2\Omega\\ E_{TH}=4.56V\\ \\ I_L=\frac{4.56V}{7.2\Omega}=0.63A \\ \\ R_{TH}=RN\ \wedge\ I_N=I_L \end{matrix}" />
+
+37. Literales
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-91.png)
+
+a. Para el circuito de la figura 9-91 determine el valor de R_L para que se suministre la máxima potencia a la carga
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;R_{TH}=15k\Omega&plus;25k\Omega&plus;20k\Omega=60k\Omega=R_L\\&space;V_{ab(1)}=(25k\Omega)\cdot(-3mA)=-75V\\&space;V_{ab(2)}=(20k\Omega)\cdot(5mA)=100V\\&space;E_{TH}=V_{ab(1)}&plus;V_{ab(2)}=-75V&plus;100V=25V&space;\end{matrix}" title="\begin{matrix} R_{TH}=15k\Omega+25k\Omega+20k\Omega=60k\Omega=R_L\\ V_{ab(1)}=(25k\Omega)\cdot(-3mA)=-75V\\ V_{ab(2)}=(20k\Omega)\cdot(5mA)=100V\\ E_{TH}=V_{ab(1)}+V_{ab(2)}=-75V+100V=25V \end{matrix}" />
+
+b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;P=\frac{V^2}{4R}=\frac{25^2}{4(60)}=2.60mW&space;\end{matrix}" title="\begin{matrix} P=\frac{V^2}{4R}=\frac{25^2}{4(60)}=2.60mW \end{matrix}" />
+
+39. Literales 
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-99.png)
+
+a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que R_L = R_(Th)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;R_{TH}=R_L\\&space;\\&space;R_{TH}=\frac{600\Omega\cdot&space;R}{600\Omega&plus;R}&plus;20\Omega\\&space;\\&space;R_l=50\Omega\\&space;\\&space;\frac{600\Omega\cdot&space;R}{600\Omega&plus;R}&plus;20\Omega=50\Omega\\&space;\\&space;\frac{600\Omega\cdot&space;R}{600\Omega&plus;R}=30\Omega\\&space;\\&space;R=31.58\Omega&space;\end{matrix}" title="\begin{matrix} R_{TH}=R_L\\ \\ R_{TH}=\frac{600\Omega\cdot R}{600\Omega+R}+20\Omega\\ \\ R_l=50\Omega\\ \\ \frac{600\Omega\cdot R}{600\Omega+R}+20\Omega=50\Omega\\ \\ \frac{600\Omega\cdot R}{600\Omega+R}=30\Omega\\ \\ R=31.58\Omega \end{matrix}" />
+
+b. Calcule la máxima potencia disparada por R_L
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;E_{TH}=\frac{31.58\Omega}{31.58\Omega&plus;600\Omega}(25V)=1.25V\\&space;\\&space;P=\frac{V^2}{4R}=\frac{1.25^2}{4(50)}=7.81mW&space;\end{matrix}" title="\begin{matrix} E_{TH}=\frac{31.58\Omega}{31.58\Omega+600\Omega}(25V)=1.25V\\ \\ P=\frac{V^2}{4R}=\frac{1.25^2}{4(50)}=7.81mW \end{matrix}" />
+
+41. Literales
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-101.png)
+
+a. Para el circuito de la figura 9-101 determine los valores de R_! y R_" de manera que la carga de 32 k ohmios reciba la máxima potencia
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;R_{TH}=\frac{R_1\cdot&space;R_2}{R_1&plus;R_2}\\&space;\\&space;\frac{R_1\cdot&space;R_2}{R_1&plus;R_2}=32k\Omega\\&space;\\&space;R_1\cdot&space;R_2=32k\Omega(R_1&plus;R_2)\\&space;\\&space;R_1\cdot&space;(R_1&plus;(200k\Omega-R_1))=32k\Omega(R_1&plus;(200k\Omega-R_1))\\&space;\\&space;R_1=160k\Omega\\&space;\therefore&space;R_1&plus;R_2=220k\Omega\\&space;160k\Omega&plus;R_2=220k\Omega\\&space;R_2=40k\Omega&space;\end{matrix}" title="\begin{matrix} R_{TH}=\frac{R_1\cdot R_2}{R_1+R_2}\\ \\ \frac{R_1\cdot R_2}{R_1+R_2}=32k\Omega\\ \\ R_1\cdot R_2=32k\Omega(R_1+R_2)\\ \\ R_1\cdot (R_1+(200k\Omega-R_1))=32k\Omega(R_1+(200k\Omega-R_1))\\ \\ R_1=160k\Omega\\ \therefore R_1+R_2=220k\Omega\\ 160k\Omega+R_2=220k\Omega\\ R_2=40k\Omega \end{matrix}" />
+
+b. Calcule la máxima potencia suministrada por R_L
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;E_{TH}=\frac{40k\Omega}{160k\Omega&plus;40k\Omega}(25V)=5V\\&space;\\&space;P=\frac{5^2}{4(32)}=0.195mW&space;\end{matrix}" title="\begin{matrix} E_{TH}=\frac{40k\Omega}{160k\Omega+40k\Omega}(25V)=5V\\ \\ P=\frac{5^2}{4(32)}=0.195mW \end{matrix}" />
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie de 50 ohmios, determine la longitud y polaridad de la fuente de voltaje resultante
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-102.png)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;V_{ab(1)}=\frac{125\Omega}{300\Omega}(-10V)=-4.167V\\&space;\\&space;I=\frac{75\Omega}{300\Omega}(50mA)=12.5mA\\&space;\\&space;V_{ab(2)}=12.5mA\cdot&space;125\Omega=1.536V\\&space;\\&space;V_T=V_{ab(1)}&plus;V_{ab(2)}=-4.167V&plus;12.5mA=-2.604V&space;\end{matrix}" title="\begin{matrix} V_{ab(1)}=\frac{125\Omega}{300\Omega}(-10V)=-4.167V\\ \\ I=\frac{75\Omega}{300\Omega}(50mA)=12.5mA\\ \\ V_{ab(2)}=12.5mA\cdot 125\Omega=1.536V\\ \\ V_T=V_{ab(1)}+V_{ab(2)}=-4.167V+12.5mA=-2.604V \end{matrix}" />
+
+45. Use el teorema de Millman para encontrar la corriente y la potencia disipada por R_L en el circuito de la figura 9-103
+
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Fig.9-103.png)
+
+<img src="https://latex.codecogs.com/svg.latex?\begin{matrix}&space;E_{eq}=\frac{\frac{E_1}{R_1}&plus;\frac{E_2}{R_2}}{\frac{1}{R_1}&plus;\frac{1}{R_2}}\\&space;\\&space;E_{eq}=\frac{\frac{20}{30\Omega}&plus;\frac{-10}{20\Omega}}{\frac{1}{30\Omega}&plus;\frac{1}{20\Omega}}=2V\\&space;\\&space;\frac{1}{Req}=\frac{1}{\frac{1}{30\Omega}}&plus;\frac{1}{\frac{1}{20\Omega}}=12\Omega\\&space;\\&space;V_L=E_{eq}\cdot&space;\frac{R_L}{Req&plus;R_L}=\frac{2\cdot&space;25}{37}=1.35V\\&space;\\&space;I_L=\frac{E_{eq}}{Req&plus;R_L}=\frac{2}{37}=0.054A\\&space;\\&space;P=I_L\cdot&space;V_L=0.054A\cdot&space;1.35V=0.073W&space;\end{matrix}" title="\begin{matrix} E_{eq}=\frac{\frac{E_1}{R_1}+\frac{E_2}{R_2}}{\frac{1}{R_1}+\frac{1}{R_2}}\\ \\ E_{eq}=\frac{\frac{20}{30\Omega}+\frac{-10}{20\Omega}}{\frac{1}{30\Omega}+\frac{1}{20\Omega}}=2V\\ \\ \frac{1}{Req}=\frac{1}{\frac{1}{30\Omega}}+\frac{1}{\frac{1}{20\Omega}}=12\Omega\\ \\ V_L=E_{eq}\cdot \frac{R_L}{Req+R_L}=\frac{2\cdot 25}{37}=1.35V\\ \\ I_L=\frac{E_{eq}}{Req+R_L}=\frac{2}{37}=0.054A\\ \\ P=I_L\cdot V_L=0.054A\cdot 1.35V=0.073W \end{matrix}" />
+  
  
 # II. Capacitancia e Inductancia.-
   
