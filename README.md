@@ -38,7 +38,7 @@
 
   ## Capacitores y Capacitancia
 
-    ![]()
+    ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Mentefacto-Cap10.jpeg)
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
   # II. Analisis basico de cd.-
@@ -122,11 +122,12 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/27.png)
   
  
- 
- 
- cap 10
- 
-
+ # II. Capacitancia e Inductancia.-
+  
+   * CAP 10: Capacitores y Capacitancia 
+   
+      ** 10 - 1 : Capacitancia
+      
   1 . Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
   
   ![10 1](https://user-images.githubusercontent.com/84453557/126446990-4bec1503-d232-49f2-960d-43bb0d9ad557.png)
@@ -183,24 +184,7 @@ b. ¿Cuál es E al doble de la distancia?
   25 . Repita el problema 23 si los capacitores están conectados en serie.
   ![10 25](https://user-images.githubusercontent.com/84453557/126447111-bb947a19-a76d-44c8-9781-79f3e142186e.png)
 
-  
-  
-  
-  
-   
-   # II. Capacitancia e Inductancia.-
-  
-   * CAP 10: Capacitores y Capacitancia 
-   
-      ** 10 - 1 : Capacitancia
-      
-      1.-
-      
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      ------------------------------
-      -------------------------------
+ 
       
  # 4. VIDEO
 
