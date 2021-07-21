@@ -6,13 +6,12 @@
 
 #### RESUMEN
 
------------
-----------
----------
+La Tarea 5 se trata sobre la resolucion del capitulo 9 y 5 del lbro analisis de circuitos de Robins en la cual abordamos sobre Teorema de redes como : Teroema de superposicion, teorema de Norton, Teorema de Thevenin y el siguiente capitulo sobre Cpacitancia toda su teoria y aplicacion en circuitos determinados donde puede usarse capacitores y toda su teoria.
 
  #### OBJETIVO GENERAL
- * --------------
- ----------
+ * Desrrollar ejericios de aplicacion para mejor entedimiento sobre los teremas de Redes o de conexiones en una malla y saber identificar que tipo de teorema es el adecuado a apalicar en esa red de conexion ya sea : superposicion, thevenin o norton.
+ 
+ * Entender todo los conceptos teoricos sobre Capcitores y capacitancia , formas de conectarlos y formas de medirlos para un correcto analisis de aplicacion en conexiones en un circuito y la union con otros componetes. 
  
  
   #### OBJETIVOS ESPECÍFICOS
@@ -21,9 +20,9 @@
 
 * Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.
 
-* --------------------------------
+* Comprender el funcionamiento correcto de los capacitores en un circuito.
 
-* ------------------------------
+* Saber reconocer que tipo de red o conexion es para aplicar el Terema correcto a su resolucion.
 
 # 2. MARCO TEÓRICO
 
@@ -182,6 +181,8 @@ b. ¿Cuál es E al doble de la distancia?
   
   25 . Repita el problema 23 si los capacitores están conectados en serie.
   ![10 25](https://user-images.githubusercontent.com/84453557/126447111-bb947a19-a76d-44c8-9781-79f3e142186e.png)
+  
+  
 
  
       
@@ -191,11 +192,13 @@ b. ¿Cuál es E al doble de la distancia?
   
  # 5. CONCLUSIONES
  
-  -------------------------------------
   * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
-  ------------------------------------
-  ---------------------------------
-  -----------------------------------
+  
+  * Medir correctamente las unidades de los capactiores y reconocer los calculos en sus respectivas conexiones sea paralelo o serie.
+  
+  * Reconocer correctamente la Red y Terema a aplicar para su respectiva solucion de la aplicacion dada.
+  
+  * Se concluye tener una habiidad de resolver varios casos diferentes presentados para cualquier situacion y un correcto analisis y calculo.
   
  # 6. BIBLIOGRAFÍA
 
@@ -204,9 +207,7 @@ b. ¿Cuál es E al doble de la distancia?
 
 * Recuperado de: https://www.academia.edu/20334884/Analisis_de_circuitos_Teoria_y_practica
 
-* -------------------------------------------------
 
-* --------------------------------------------------
 
 
 RUBRICA
