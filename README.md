@@ -74,7 +74,7 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/11.png)
   
   13. Vea el circuito de la figura 9-87: 
-  14. 
+  
       a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas. 
       
       b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
@@ -82,7 +82,7 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/13.png)
   
   15. Vea el circuito de la figura 9-89: 
-  16. 
+   
       a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican. 
       
       b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
@@ -90,7 +90,7 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/15.png)
   
   17. Vea el circuito de la figura 9-91:
-  18. 
+   
       a. Encuentre el circuito equivalente de Thévenin externo a RL.
       
       b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL= 0, 10 kΩ y 50 kΩ.
@@ -98,7 +98,7 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/17.png)
   
   19. Vea el circuito de la figura 9-93:
-  20. 
+   
       a. Encuentre el circuito equivalente de Thévenin externo a RL. 
       
       b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL=0 kohms, 10 kohms y 50 kohms.
