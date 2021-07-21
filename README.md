@@ -44,6 +44,78 @@
   # II. Analisis basico de cd.-
   
    * CAP 9: Teorema de Redes
+  
+  1. Dado el circuito de la figura 9-75, use la superposición para calcular la corriente a través de cada uno de los resistores.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/1.png)
+  
+  3. Use la superposición para encontrar el voltaje Va y la corriente I en el circuito de la figura 9-77.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/3.png)
+  
+  5. En el circuito de la figura 9-79, ¿cuál debe ser el valor de la fuente de voltaje desconocida para asegurar que la corriente a través de la carga sea IL = 5 mA, tal y como se muestra? Verifique los resultados mediante la superposición.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/5.png)
+  
+  7.  Encuentre el equivalente de Thévenin externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar Vab.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/7.png)
+  
+  9. Repita el problema 7 para el circuito de la figura 9-83.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/9.png)
+  
+  11. Vea el circuito de la figura 9-85:
+      a Encuentre el circuito equivalente de Thévenin externo a RL. 
+      b. Use el circuito equivalente para determinar Vab cuando RL=20 ohms y cuando RL=50 ohms.
+
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/11.png)
+  
+  13. Vea el circuito de la figura 9-87: 
+      a. Encuentre el circuito equivalente de Thévenin externo a las terminales indicadas. 
+      b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas indicadas.
+
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/13.png)
+  
+  15. Vea el circuito de la figura 9-89: 
+      a. Encuentre el circuito equivalente de Thévenin externo a las terminales que se indican. 
+      b. Use el circuito equivalente de Thévenin para determinar la corriente a través de las ramas que se indican.
+
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/15.png)
+  
+  17. Vea el circuito de la figura 9-91:
+      a. Encuentre el circuito equivalente de Thévenin externo a RL.
+      b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL= 0, 10 kΩ y 50 kΩ.
+
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/17.png)
+  
+  19. Vea el circuito de la figura 9-93:
+      a. Encuentre el circuito equivalente de Thévenin externo a RL. 
+      b. Use el circuito equivalente de Thévenin para encontrar la corriente I cuando RL=0 kohms, 10 kohms y 50 kohms.
+
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/19.png)
+  
+  21. Encuentre el circuito equivalente de Thévenin de la red externa a las ramas que se indican, como se muestra en la figura 9-95.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/21.png)
+  
+  23. Repita el problema 22 para el circuito de la figura 9-97.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/23.png)
+  
+  25. Encuentre el circuito equivalente de Norton externo a RL en el circuito de la figura 9-81. Use el circuito equivalente para encontrar IL para el circuito.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/25.png)
+  
+  27. Repita el problema 25 para el circuito de la figura 9-83.
+  
+  ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/27.png)
+  
+ 
+ 
+ 
+ cap 10
+ 
 
   1 . Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
   
