@@ -38,7 +38,8 @@
 
   ## Capacitores y Capacitancia
 
-    ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Mentefacto-Cap10.jpeg)
+![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/Mentefacto-Cap10.jpeg)
+
 # 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
   # II. Analisis basico de cd.-
@@ -122,11 +123,11 @@
   ![](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/Tarea%205/27.png)
   
  
- # II. Capacitancia e Inductancia.-
+# II. Capacitancia e Inductancia.-
   
-   * CAP 10: Capacitores y Capacitancia 
+* CAP 10: Capacitores y Capacitancia 
    
-      ** 10 - 1 : Capacitancia
+** 10 - 1 : Capacitancia
       
   1 . Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
   
