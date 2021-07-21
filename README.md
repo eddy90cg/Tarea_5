@@ -19,7 +19,7 @@
 
 * Analizar cómo los nuevos teoremas facilitan en gran proporcion los calculos de los circuitos.
 
-* ----------------------------------
+* Analizar cada uno de los temas dados, con el fin de poder realizar los ejercicios correspondientes, así como también, obtener un mayor y amplio conocimiento mediante la práctica y desarollo de estos.
 
 * --------------------------------
 
@@ -209,7 +209,7 @@ b. ¿Cuál es E al doble de la distancia?
  # 5. CONCLUSIONES
  
   -------------------------------------
-  -------------------------------------
+  * Finalmente después de haber realizado un análisis profundo de cada tema tratado, pudimos observar que gracias al análisis realizado por cada uno se pudo obtener un mayor conocimiento y así poder realizar el cálculo necesario para la resolución de problemas, los cuales nos brindan un gran avance en el análisis de circuitos.
   ------------------------------------
   ---------------------------------
   -----------------------------------
