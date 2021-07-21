@@ -186,45 +186,45 @@ b. ¿Cuál es E al doble de la distancia?
 
   ![f 10 - 33](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2033.jpg)
   
-  ![Resolucion 10 - 27]( )
+  ![Resolucion 10 - 27](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2027.jpg)
   
   
   29. Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
   
-  ![Resolucion 10 - 29]( ) 
+  ![Resolucion 10 - 29](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2029.jpg) 
   
   31. Para la figura 10-36, determine C3 y C4
   
   ![f 10 - 36](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2036.jpg)
   
-  ![Resolucion 10 - 31]( )
+  ![Resolucion 10 - 31](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2031.jpg)
   
   33. Se tienen capacitores de 22, 47, 2.2 y 10 F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera?, ¿y la más pequeña?
   
-  ![Resolucion 10 - 33]( ) 
+  ![Resolucion 10 - 33](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2033.jpg) 
 
   
   35. Considere capacitores de 1, 1.5 y 10 F. Si CT  10-6 F, ¿cómo están conectados los capacitores?
   
-  ![Resolucion 10 - 35]( ) 
+  ![Resolucion 10 - 35](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2035.jpg) 
   
   37. Para las figuras 10-33 (c) y (d), encuentre el voltaje en cada capacitor si se aplican 100 V en las terminales a-b 
   
   ![f 10 - 33](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2033.jpg)
   
-  ![Resolucion 10 - 37]( )
+  ![Resolucion 10 - 37](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2037.jpg)
   
   39. Repita el problema 38 para el circuito de la figura 10-39 - 38. Utilice la regla de divisor de voltaje para encontrar el voltaje en cada capacitor 
   
   ![f 10 - 39](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2039.jpg)
   
-  ![Resolucion 10 - 39]( )
+  ![Resolucion 10 - 39](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2039.jpg)
   
   41. Para la figura 10-41, determine Cx.
   
   ![f 10 - 41](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2041.jpg)
   
-  ![Resolucion 10 - 41]( )
+  ![Resolucion 10 - 41](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2041.jpg)
   
   ** 10-8 Corriente y voltaje en el capacitor:
   
@@ -232,11 +232,11 @@ b. ¿Cuál es E al doble de la distancia?
   
   ![f 10 - 42](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2042.jpg)
   
-  ![Resolucion 10 - 43]( )
+  ![Resolucion 10 - 43](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2043.jpg)
   
   45. Si el voltaje en un capacitor de 4.7 F es vC  100e0.05t V, ¿qué valor tiene iC?
   
-  ![Resolucion 10 - 45]( )
+  ![Resolucion 10 - 45](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2045.jpg)
   
   ** 10-9 Energía almacenada por un capacitor:
   
@@ -244,7 +244,7 @@ b. ¿Cuál es E al doble de la distancia?
   
   ![f 10 - 42](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2042.jpg) 
   
-  ![Resolucion 10 - 47]( )
+  ![Resolucion 10 - 47](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2047.jpg)
   
   ** 10-10 Fallas en el capacitor y solución de problemas
   
@@ -252,7 +252,7 @@ b. ¿Cuál es E al doble de la distancia?
   
   ![f 10 - 44](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/fig%2010%20-%2044.jpg) 
   
-  ![Resolucion 10 - 49]( )
+  ![Resolucion 10 - 49](https://github.com/eddy90cg/Tarea_5/blob/main/Anexos%20-%20img/part%2027%20-%2049%20cap%2010/resolucion/cap%2010%20-%2049.jpg)
   
  # 4. VIDEO
 
