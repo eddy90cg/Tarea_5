@@ -126,8 +126,6 @@
 # II. Capacitancia e Inductancia.-
   
 * CAP 10: Capacitores y Capacitancia 
-   
-** 10 - 1 : Capacitancia
       
   1 . Para la figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique a cada uno de los siguientes incisos:
   
