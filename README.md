@@ -17,7 +17,7 @@
  
   #### OBJETIVOS ESPECÍFICOS
 
-* ----------------------------------
+* Analizar cómo los nuevos teoremas facilitan en gran proporcion los calculos de los circuitos.
 
 * ----------------------------------
 
